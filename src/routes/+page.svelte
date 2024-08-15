@@ -9,6 +9,8 @@
   <meta name="description" content="Svelte demo app" />
 </svelte:head>
 
+THIS STRING SHOULD NOT APPEAR IN .svelte-kit/cloudflare/_worker.js
+
 <section>
   <h1>
     <span class="welcome">
